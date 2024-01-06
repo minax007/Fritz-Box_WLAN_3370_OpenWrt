@@ -17,10 +17,10 @@ __________________________________________________________________
 
 FW: https://firmware-selector.openwrt.org/?version=SNAPSHOT&target=lantiq%2Fxrx200&id=avm_fritz3370-rev2-micron
 
-ipq806x builds: https://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/
+lantiq xrx200 builds: https://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/
 __________________________________________________________________
 **ImmortalWrt:**
 
 FW: https://firmware-selector.immortalwrt.org/?version=SNAPSHOT&target=lantiq%2Fxrx200&id=avm_fritz3370-rev2-micron
 
-ipq806x builds: https://downloads.immortalwrt.org/snapshots/targets/lantiq/xrx200/
+lantiq xrx200 builds: https://downloads.immortalwrt.org/snapshots/targets/lantiq/xrx200/
