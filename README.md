@@ -1,5 +1,6 @@
 ![grafik](https://github.com/minax007/Fritz-Box_WLAN_3370_OpenWrt/assets/67478561/8e289161-6ca7-414c-8cd0-17fa705293a0)
 # OpenWrt for Fritz!Box WLAN 3370
+[![Build OpenWrt](https://github.com/minax007/Fritz-Box_WLAN_3370_OpenWrt/actions/workflows/build-snapshot.yml/badge.svg)](https://github.com/minax007/Fritz-Box_WLAN_3370_OpenWrt/actions/workflows/build-snapshot.yml)
 [![release](https://img.shields.io/github/v/release/minax007/Fritz-Box_WLAN_3370_OpenWrt.svg)](https://github.com/minax007/Fritz-Box_WLAN_3370_OpenWrt/releases)
 
 These GitHub actions are for building OpenWrt based on snapshot or official releases using imagebuilder.
